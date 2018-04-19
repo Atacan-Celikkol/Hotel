@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeHotel.Core", "BilgeHotel.Core\BilgeHotel.Core.csproj", "{761C9E58-6A41-482B-8B72-151CEDA088A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeHotel.DAL", "BilgeHotel.DAL\BilgeHotel.DAL.csproj", "{1BDA391C-9BA7-49F4-894D-281FFED0FAD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeHotel.BLL", "BilgeHotel.BLL\BilgeHotel.BLL.csproj", "{55467C81-66A4-412A-9C70-90DAD6DA203D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeHotel.Model", "BilgeHotel.Model\BilgeHotel.Model.csproj", "{7C58B869-02C9-407A-B2F3-028BA2410AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeHotel.UI.WebMVC", "BilgeHotel.UI.WebMVC\BilgeHotel.UI.WebMVC.csproj", "{8B8E3866-ED5E-44E8-BEC5-32A016ABF456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeHotel.UI.WinForm", "BilgeHotel.UI.WinForm\BilgeHotel.UI.WinForm.csproj", "{12E48AD0-9F52-476B-8BA2-EEE3BB8E4C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761C9E58-6A41-482B-8B72-151CEDA088A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761C9E58-6A41-482B-8B72-151CEDA088A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761C9E58-6A41-482B-8B72-151CEDA088A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761C9E58-6A41-482B-8B72-151CEDA088A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDA391C-9BA7-49F4-894D-281FFED0FAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDA391C-9BA7-49F4-894D-281FFED0FAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDA391C-9BA7-49F4-894D-281FFED0FAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDA391C-9BA7-49F4-894D-281FFED0FAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55467C81-66A4-412A-9C70-90DAD6DA203D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55467C81-66A4-412A-9C70-90DAD6DA203D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55467C81-66A4-412A-9C70-90DAD6DA203D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55467C81-66A4-412A-9C70-90DAD6DA203D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C58B869-02C9-407A-B2F3-028BA2410AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C58B869-02C9-407A-B2F3-028BA2410AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C58B869-02C9-407A-B2F3-028BA2410AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C58B869-02C9-407A-B2F3-028BA2410AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8E3866-ED5E-44E8-BEC5-32A016ABF456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8E3866-ED5E-44E8-BEC5-32A016ABF456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8E3866-ED5E-44E8-BEC5-32A016ABF456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8E3866-ED5E-44E8-BEC5-32A016ABF456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E48AD0-9F52-476B-8BA2-EEE3BB8E4C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E48AD0-9F52-476B-8BA2-EEE3BB8E4C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E48AD0-9F52-476B-8BA2-EEE3BB8E4C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E48AD0-9F52-476B-8BA2-EEE3BB8E4C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {187B25ED-434D-4A82-8559-C0585E3EE53A}
+	EndGlobalSection
+EndGlobal
